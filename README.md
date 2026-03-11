@@ -1,2 +1,6 @@
 # Concientize-Trabalho-de-FSO-I
 Esse é um trabalho de Fábrica de Software I, onde criamos um site com o tema: "Grandes centros urbanos enfrentam sérios problemas relacionados ao descarte inadequado de resíduos."
+
+Descrição Detalhada do Problema:
+
+O descarte incorreto não é apenas uma escolha, muitas vezes as pessoas apenas não sabem como deve ser feito e muito menos o porquê. Essa ação não afeta apenas a pessoa que a pratica, como aos seus vizinhos, ao seu bairro e até a sua cidade. Baterias e pilhas quando se deterioram começam a soltar líquidos extremamente tóxicos e poluentes, que podem chegar até o lençol freático, assim poluindo o abastecimento de água. Óleo não é um componente tratado nos sistemas de esgoto, então retorna inteiro ao meio ambiente, causando também a poluição de rios. Já movéis e eletrodomésticos, comumente descartados em frente de casa, quando não recolhidos estão expostos ao clima e se degradam muito rapidamente. Nessa situação muitas vezes são apenas recolhidos e jogados em terrenos baldios ou mata próxima. Toda essa situação de descartes incorretos não afetam apenas a aparência da cidade, nem o cheiro, como também a saúde da população e seu turismo. Afinal, entre turistar em uma cidade limpa e agradável e uma que fede a lixo e a água causa intoxicação, o cidadão comum tem sua escolha dada de bandeja.
