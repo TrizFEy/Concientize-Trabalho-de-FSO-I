@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <style>
+        body {
+            background-color: #EAF4E9 !important;
+        }
+
+        .navbar-custom {
+            background-color: #EAF4E9;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+        }
+
+        .btn-custom {
+            background-color: #EAF4E9 !important;
+            border: none;
+        }
+/* Essa parte debaixo fiz com a ajuda de um colega no trabalho, não ficou como no protótipo, mas ficou perto o suficiente */
+
+        .hero-container {
+            position: relative;
+            max-width: 1200px;
+            margin: 20px auto;
+            overflow: hidden;
+            border-radius: 15px;
+        }
+
+        .hero-image {
+            width: 100%;
+            height: auto;
+            display: block;
+            filter: brightness(70%);
+        }
+
+        .hero-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);            
+            color: white;
+            text-align: left;
+            width: 80%;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+/* A partir daqui foi com o bootstrap */
+    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-custom">
+        <div class="container-fluid">
+            <a class="navbar-brand ms-auto" href="/Index.html">
+                <img src="https://cdn-icons-png.flaticon.com/512/1995/1995107.png" alt="Logo" height="30"
+                    class="d-inline-block align-text-top">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/Index.html">Informações</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Coleta.html">Coleta</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Denúncia.html">Denúncia</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ÓrgãosPúblicos.html">Órgãos Públicos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contato.html">Contato</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ConsultarProtocolo.html">Consultar Protocolo</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
